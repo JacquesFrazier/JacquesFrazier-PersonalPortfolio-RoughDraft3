@@ -1,3 +1,22 @@
 - I'm almost done I just want to take my time with my beauitful portfolio lol
 - I finished the media query just need to decorate accordinally
-- I big changes are soon coming 
+- I big changes are soon coming
+
+NOTES:
+-The main design is finsihed just need to add content 
+
+-(Media Queries)
+-1339px => done
+-1310px => done
+-1170px => done
+-1090px => done
+-990px => done
+-909px => done
+-875px => needs work 
+-768px =>
+-616pz =>
+-569px =>
+-520px =>
+-454px =>
+-374px =>
+-320px =>
