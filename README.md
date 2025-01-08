@@ -12,7 +12,11 @@ NOTES:
 -1090px => done
 -990px => done
 -909px => done
--875px => needs work 
+
+-875px => 
+needs work/change the intro as it was before 
+will change it at the 616px mark
+
 -768px =>
 -616pz =>
 -569px =>
