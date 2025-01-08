@@ -6,11 +6,17 @@ NOTES:
 -The main design is finsihed just need to add content 
 
 -(Media Queries)
+
 -1339px => done
+
 -1310px => done
+
 -1170px => done
+
 -1090px => done
+
 -990px => done
+
 -909px => done
 
 -875px => 
