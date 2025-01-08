@@ -1,5 +1,5 @@
 - I'm almost done I just want to take my time with my beauitful portfolio lol
-- I finished the media query just need to decorate accordinally
+- I finished the media query just need to decorate accordingly
 - I big changes are soon coming
 
 NOTES:
@@ -19,7 +19,10 @@ will change it at the 616px mark
 
 -768px =>
 -616pz =>
+
 -569px =>
+fix the PROJECTS header accordingly
+
 -520px =>
 -454px =>
 -374px =>
