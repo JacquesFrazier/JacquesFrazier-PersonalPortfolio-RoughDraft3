@@ -32,6 +32,9 @@ will change it at the 616px mark
 fix the PROJECTS header accordingly
 
 -520px =>
+
 -454px =>
+
 -374px =>
+
 -320px =>
