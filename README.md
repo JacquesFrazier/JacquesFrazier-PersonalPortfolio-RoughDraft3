@@ -3,9 +3,10 @@
 - I big changes are soon coming
 
 NOTES:
+
 -The main design is finsihed just need to add content 
 
--(Media Queries)
+(Media Queries)
 
 -1339px => done
 
